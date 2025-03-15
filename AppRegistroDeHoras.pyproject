@@ -1,0 +1,3 @@
+{
+    "files": ["Funcionalidades/gestion_empleados.py","form.ui","Funcionalidades/calcular_horas.py","Funcionalidades/guardar_restaurar_horas.py","widget.py","Funcionalidades/__init__.py"]
+}
